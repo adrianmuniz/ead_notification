@@ -6,7 +6,7 @@
 
 <h3>Arquitetura</h3>
 <p>O Microserviço de Notificações faz parte de uma complexa arquitetura onde realiza comunicação entre Cursos e AuthUser, além de conter implenmentações de Segurança como Service Registry e API-GATEWAY.</p>
-<img height="300em" src="https://github.com/adrianmuniz/ead_course/blob/course-v2/arquitetura_course.png"/>
+<img height="300em" src="https://github.com/adrianmuniz/ead_notification/blob/main/arquitetura_notification.png"/>
 
 <h3>Funcionalidades</h3>
 <ul>
